@@ -1,1 +1,1 @@
-# VSD-IAT-Sign-off-Timing-Analysis - Basics-to-Advanced
+# VSD-IAT: Static Timing Analysis Workshop - Basics to Advanced
