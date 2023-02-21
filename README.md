@@ -1,1 +1,1 @@
-# VSD-IAT: Static Timing Analysis Workshop - Basics to Advanced
+# VSD-IAT: Static Timing Analysis - Basics to Advanced
