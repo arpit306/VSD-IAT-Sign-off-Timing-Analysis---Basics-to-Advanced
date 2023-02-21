@@ -14,6 +14,7 @@ STA stands for Static Timing Analysis. It is a method to verify the timing corre
 In this 5 days workshop we have used open-source sign-off timing analysis tool STA and open-source Sky130 libraries, to perform the day-wise labs.
 Each day has a specific set of task to be completed under this workshop. Following is the detailed proof of work of labs of each day.
 ## ▫️ Day-1 Lab
+[Objective]: To understand the inputs to openSTA and run script commands.
 [1.] Simple.v Verilog netlist (Input to openSTA)  
 
 ![netlist](https://user-images.githubusercontent.com/68592620/220353404-723d68a1-4de2-4ee3-b1f7-e4fcf369775b.png)
