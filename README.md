@@ -37,6 +37,12 @@ Each day has a specific set of task to be completed under this workshop. Followi
 [1.] Following are all the cells present in simple_max.lib  
 ![cells](https://user-images.githubusercontent.com/68592620/220416066-1e3a1364-1bc3-48e0-b243-989a66415004.png)
 
+[2.] Number of pins in cell NAND2_X1 in simple_max.lib  
+``` There are three pins in NAND2_X1 in simple_max.lib as mentioned below  
+    pin 'o'
+    pin 'a'
+    pin 'b'  
+ ```
 ## ▫️ Day-3 Lab
 ## ▫️ Day-4 Lab
 ## ▫️ Day-5 Lab
