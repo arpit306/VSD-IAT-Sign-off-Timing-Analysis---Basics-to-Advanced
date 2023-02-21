@@ -22,6 +22,10 @@ Each day has a specific set of task to be completed under this workshop. Followi
 
 ![lib](https://user-images.githubusercontent.com/68592620/220355039-9e47d857-4b05-45e5-a8d1-637ce6fd7064.png)
 
+[3.] simple.sdc SDC constraint file (Input to openSTA)  
+
+![sdc](https://user-images.githubusercontent.com/68592620/220356373-7fd75b3a-a8c1-48d0-96ab-61cacaeff1a8.png)
+
 ## ▫️ Day-2 Lab
 ## ▫️ Day-3 Lab
 ## ▫️ Day-4 Lab
