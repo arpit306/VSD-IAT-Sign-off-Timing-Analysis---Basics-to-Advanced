@@ -29,13 +29,13 @@ Each day has a specific set of task to be completed under this workshop. Followi
 
 ### [4.] openSTA run script results  
 
-![ss1](https://user-images.githubusercontent.com/68592620/220359535-2033b06a-e4a5-4b40-b07a-fc21d7a87f5b.png)
+![ss1](https://user-images.githubusercontent.com/68592620/220439954-23dd5bd1-8ec8-4c89-8a4f-25743d6d728b.png)
 ![imgonline-com-ua-twotoone-knK5JymMuYhlz4zf](https://user-images.githubusercontent.com/68592620/220359573-fde7b9d0-7722-410f-88c1-5959a6f90460.jpg)
 ## 🔲 Day-2 Lab  
 [Objective]: To understand liberty files, SPEF, timing reports.  
 
 ### [1.] Following are all the cells present in simple_max.lib  
-![cells](https://user-images.githubusercontent.com/68592620/220416066-1e3a1364-1bc3-48e0-b243-989a66415004.png)
+![cells](https://user-images.githubusercontent.com/68592620/220440650-88b0674d-7a1b-4b5f-8c52-324c41de86e1.png)
 
 ### [2.] Number of pins in cell NAND2_X1 in simple_max.lib  
 ``` There are three pins in NAND2_X1 in simple_max.lib as mentioned below  
