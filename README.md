@@ -17,4 +17,10 @@ STA stands for Static Timing Analysis. It is a method to verify the timing corre
 ## ▫️ Day-4 Lab
 ## ▫️ Day-5 Lab
 ## ▫️ Acknowledgement
+
+- [Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
+- [Vikas Sachdeva](https://vlsideepdive.com/), Advisor, Tech and VLSI Coach, Trainer and Innovator at vlsideepdive.
 ## ▫️ Author
+
+[Arpit Sharma](https://www.linkedin.com/in/arpit-s-a92647108/), B.Tech (2019-23), IPEC, Sahibabad, Delhi-NCR, India  
+Contact: arpitniraliya306@gmail.com, 1900300310018@ipec.org.in  <br>
