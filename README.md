@@ -51,7 +51,11 @@ Each day has a specific set of task to be completed under this workshop. Followi
 - Second is the difference in **maximum output capacitance.**  
 ![diff2](https://user-images.githubusercontent.com/68592620/220427504-9bace579-bab1-46b7-b8a6-cdc936619720.png)
 
-- Third is the difference of the **transition times and delays.**
+- Third is the difference of the **transition times and delays.**  
+### [4.] Difference between ‘simple_max.lib’ and ‘simple_min.lib’ 
+The main difference that I was able to find was in the delays as shown below.  
+![diff3](https://user-images.githubusercontent.com/68592620/220441947-45186d05-003b-44d8-a27c-f7103c7bb96a.png)
+
 ## 🔲 Day-3 Lab
 ## 🔲 Day-4 Lab
 ## 🔲 Day-5 Lab
