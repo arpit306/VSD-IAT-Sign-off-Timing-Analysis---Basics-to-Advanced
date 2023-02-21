@@ -35,6 +35,7 @@ Each day has a specific set of task to be completed under this workshop. Followi
 [Objective]: To understand liberty files, SPEF, timing reports.  
 
 [1.] Following are all the cells present in simple_max.lib  
+![cells](https://user-images.githubusercontent.com/68592620/220416066-1e3a1364-1bc3-48e0-b243-989a66415004.png)
 
 ## ▫️ Day-3 Lab
 ## ▫️ Day-4 Lab
