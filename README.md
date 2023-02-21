@@ -15,15 +15,15 @@ In this 5 days workshop we have used open-source sign-off timing analysis tool S
 Each day has a specific set of task to be completed under this workshop. Following is the detailed proof of work of labs of each day.
 ## ▫️ Day-1 Lab
 [Objective]: To understand the inputs to openSTA and run script commands.
-[1.] Simple.v Verilog netlist (Input to openSTA)  
+[1.] Verilog netlist simple.v (Input to openSTA)  
 
 ![netlist](https://user-images.githubusercontent.com/68592620/220353404-723d68a1-4de2-4ee3-b1f7-e4fcf369775b.png)
 
-[2.] sky130_fd_sc_hd_tt_025C_1v80.lib Library file (Input to openSTA)  
+[2.] Library sky130_fd_sc_hd_tt_025C_1v80.lib file (Input to openSTA)  
 
 ![lib](https://user-images.githubusercontent.com/68592620/220355039-9e47d857-4b05-45e5-a8d1-637ce6fd7064.png)
 
-[3.] simple.sdc SDC constraint file (Input to openSTA)  
+[3.] SDC constraint simple.sdc file (Input to openSTA)  
 
 ![sdc](https://user-images.githubusercontent.com/68592620/220356373-7fd75b3a-a8c1-48d0-96ab-61cacaeff1a8.png)
 
