@@ -77,7 +77,7 @@ We are performing timing analysis for the circuit shown below.
 
 ## 🔲 Day-5 Lab  
 **(Eco Insertion part) ** 
-**run.tcl file** 
+**run.tcl file**  
 ![runtcl](https://user-images.githubusercontent.com/68592620/220630915-c762bfa8-c0af-4958-9047-e5d7513495a1.png)  
 **runscript**  
 ![script_run](https://user-images.githubusercontent.com/68592620/220630988-668a9e10-4190-42f4-b779-49804eccd7eb.png)  
