@@ -76,7 +76,15 @@ We are performing timing analysis for the circuit shown below.
 ![out2](https://user-images.githubusercontent.com/68592620/220625672-a429087c-e609-4bf5-949e-6aabd4c7afcf.png)
 
 ## 🔲 Day-5 Lab  
-**(Eco Insertion part)  
+**(Eco Insertion part) ** 
+**run.tcl file** 
+![runtcl](https://user-images.githubusercontent.com/68592620/220630915-c762bfa8-c0af-4958-9047-e5d7513495a1.png)  
+**runscript**  
+![script_run](https://user-images.githubusercontent.com/68592620/220630988-668a9e10-4190-42f4-b779-49804eccd7eb.png)  
+**s27.v file**  
+![s27v](https://user-images.githubusercontent.com/68592620/220631154-cfc859a8-654b-472a-8f05-0d1fa5f78830.png)  
+**s27_eco.v file**  
+![s27eco](https://user-images.githubusercontent.com/68592620/220631570-f029e25f-c9e6-4d6d-878f-2d80a179157e.png)  
 
 ## Acknowledgement
 
