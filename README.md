@@ -62,7 +62,19 @@ We are performing timing analysis for the circuit shown below.
 ### [1.] Command : report_checks -from F1/CK  
 ![log1](https://user-images.githubusercontent.com/68592620/220623171-c69f12dd-de1b-4c4b-b3b2-34d4710cf3ab.png)    
 
-## 🔲 Day-4 Lab
+## 🔲 Day-4 Lab  
+### [1.] Clock Gating Checks  
+**run.tcl file**  
+![runtcl](https://user-images.githubusercontent.com/68592620/220625679-23ca5499-10d3-4e2c-8e45-2d4c8f818b6d.png)  
+**runscript**  
+![out1](https://user-images.githubusercontent.com/68592620/220625661-36a3d1b6-a995-4b0a-a404-329e25d6194f.png)
+
+### [2.] Async Pin Checks  
+**run.tcl file**  
+![runtcl2](https://user-images.githubusercontent.com/68592620/220625685-1c6872ea-c5d0-4d24-aa9b-c517340b9c18.png)  
+**runscript**  
+![out2](https://user-images.githubusercontent.com/68592620/220625672-a429087c-e609-4bf5-949e-6aabd4c7afcf.png)
+
 ## 🔲 Day-5 Lab
 ## Acknowledgement
 
