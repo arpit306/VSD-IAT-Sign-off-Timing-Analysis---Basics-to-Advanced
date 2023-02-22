@@ -56,7 +56,12 @@ Each day has a specific set of task to be completed under this workshop. Followi
 The main difference that I was able to find was in the delays as shown below.  
 ![diff3](https://user-images.githubusercontent.com/68592620/220441947-45186d05-003b-44d8-a27c-f7103c7bb96a.png)
 
-## 🔲 Day-3 Lab
+## 🔲 Day-3 Lab  
+We are performing timing analysis for the circuit shown below.  
+![ckt](https://user-images.githubusercontent.com/68592620/220609010-860b9578-db4b-4368-8920-fd0184f9d50c.jpg)  
+### [1.] Command : report_checks -from F1/CK  
+![log1](https://user-images.githubusercontent.com/68592620/220623171-c69f12dd-de1b-4c4b-b3b2-34d4710cf3ab.png)    
+
 ## 🔲 Day-4 Lab
 ## 🔲 Day-5 Lab
 ## Acknowledgement
