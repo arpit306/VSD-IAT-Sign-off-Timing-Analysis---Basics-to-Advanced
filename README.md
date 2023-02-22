@@ -75,7 +75,9 @@ We are performing timing analysis for the circuit shown below.
 **runscript**  
 ![out2](https://user-images.githubusercontent.com/68592620/220625672-a429087c-e609-4bf5-949e-6aabd4c7afcf.png)
 
-## 🔲 Day-5 Lab
+## 🔲 Day-5 Lab  
+**(Eco Insertion part)  
+
 ## Acknowledgement
 
 - [Kunal Ghosh](https://github.com/kunalg123), Co-founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
